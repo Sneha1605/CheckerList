@@ -7,3 +7,5 @@ CheckerList is built using HTML, javascript, CSS and flask. The user must regist
 They can add new task into list, edit the existing task, remove it from the list and strike through if done.After creating their list they can log out and comeback whenever needed.
 
 The user can also provide feedback about the app using feedback link.
+
+Video: https://youtu.be/tHj1tQmJ09Q
